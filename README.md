@@ -15,7 +15,8 @@ To run this project locally, you need:
 ## Installation & Setup
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone git [https://github.com/gaji1901/eam-user-study-agent.git](https://github.com/Gajen/eam-user-study-agent.git)
+cd eam-user-study-agent
 cd YOUR_REPO_NAME
 
 2. Install Python dependencies:
