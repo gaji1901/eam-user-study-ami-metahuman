@@ -1,4 +1,4 @@
-# Agent LLM Logic Server
+# Backend Server
 
 This repository contains the backend logic server used for the conversational AI experiment detailed in our paper submission. The server manages a dynamic, multi-turn dialogue state using a Large Language Model (LLM) and exposes a REST API for integration with frontends (e.g., MetaHuman or Ami).
 
